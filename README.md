@@ -9,10 +9,13 @@
 
 #### GPT General Resources
 
-- [ChatGPT Official App](https://chat.openai.com)
-- [OpenAI API Documentation](https://beta.openai.com/docs)
-- [chatGPT launch blog](https://openai.com/blog/chatgpt/)
+- [OpenAI Chat Plugins Documentation]([https://beta.openai.com/docs](https://platform.openai.com/docs/plugins/introduction))
+- [ChatGPT Plugins launch blog]([https://openai.com/blog/chatgpt/](https://openai.com/blog/chatgpt-plugins))
 
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
+
+#### Open Source Plugins
+
+- [ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
